@@ -1,0 +1,9 @@
+CREATE TABLE Employee (
+    PersonID int,
+    LastName varchar(255),
+    FirstName varchar(255),
+    Address varchar(255),
+    City varchar(255) 
+);
+•	INSERT INTO Employee Values (1, ‘tummoji’, ‘kiran’, ‘Telangana’, ‘hyd’)
+•	INSERT INTO Employee Values (2, ‘vennela’, ‘siri’, ‘Telangana’, ‘Sid’)
